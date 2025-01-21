@@ -1,5 +1,5 @@
 Heads-Up Poker Bot
-  This project is a Python-based bot designed to assist in Heads-Up Spin & Go poker games. It provides Game Theory Optimal (GTO) decisions for preflop scenarios and detailed postflop analysis of hand ranges. It uses pre-solved ranges.
+  This project is a Python-based bot designed to assist in Heads-Up Spin & Go poker games. It provides Game Theory Optimal (GTO) decisions for preflop scenarios and detailed postflop analysis of hand ranges. It uses pre-solved ranges for 25 Big Blinds vs 25 Big Blinds.
 
 Features
 Preflop Analysis
